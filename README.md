@@ -16,5 +16,4 @@ This repository contains the design CAD files, images and documentation for the 
 *   **Safety:** Careful consideration of designs for safety and durability.
 *   **Modular Design:** Design that allows for easy modification and expansion.
 
-Images/ME370_Project-Team_with_Prof.jpg
-![Project 2](Images/ME370_Project-Team_with_Prof.jpg)
+![Project 2](Images/Autonomous_Vegetable_Processor-Front_Close-up.jpg)
